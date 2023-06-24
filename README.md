@@ -3,20 +3,16 @@
 Welcome to the GitHub repository of our React Native application, which is a Deliveroo clone inspired by Sonny Sangha's YouTube tutorial 🍽️. This application allows you to create an experience similar to Deliveroo, enabling users to browse restaurants, place orders, and have their favorite meals delivered  🍽️. This application utilizes the following technologies and libraries:
 
 <div align="center">
-  <img src="./screenshots/Sanity_logo.png" alt="Logo 1" width="100"/>
+  <img src="./screenshots/Sanity_logo.png" alt="Sanity" width="100"/>
+  <img src="./screenshots/Native_wind.svg" alt="NativeWind" width="100"/>
+  <img src="./screenshots/ReactNavigation.svg" alt="ReactNavigation" width="100"/>
+  <img src="./screenshots/redux.svg" alt="React Redux" width="100"/>
+</div>
+<div align="center">
   <p style="font-family: Ubuntu, sans-serif; color: #777777;">Sanity CMS</p>
-</div>
-<div align="center">
-  <img src="./screenshots/Native_wind.svg" alt="Logo 2" width="100"/>
   <p style="font-family: Ubuntu, sans-serif; color: #777777;">NativeWind</p>
-</div>
-<div align="center">
-  <img src="./screenshots/ReactNavigation.svg" alt="Logo 3" width="100"/>
-  <p style="font-family: Ubuntu, sans-serif; color: #777777;">Logo 3</p>
-</div>
-<div align="center">
-  <img src="./screenshots/redux.svg" alt="Logo 4" width="100"/>
-  <p style="font-family: Ubuntu, sans-serif; color: #777777;">Logo 4</p>
+  <p style="font-family: Ubuntu, sans-serif; color: #777777;">ReactNavigation</p>
+  <p style="font-family: Ubuntu, sans-serif; color: #777777;">React Redux</p>
 </div>
 
 
