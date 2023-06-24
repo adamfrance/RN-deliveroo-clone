@@ -19,14 +19,14 @@ Welcome to the GitHub repository of our React Native application, which is a Del
 
 Here are some screenshots of the application:
 
-![Screenshot 1](https://i.postimg.cc/DW53xrmb/deliveroo-1.png)
-*HomeScreen*
+![Screenshot 1](./screenshots/deliveroo-1.png)
+_HomeScreen_
 
-![Screenshot 2](https://i.postimg.cc/jLNVp0LT/deliveroo-2.png)
-*HomeScreen*
+![Screenshot 2](./screenshots/deliveroo-2.png)
+_HomeScreen_
 
-![Screenshot 3](https://i.postimg.cc/gr1Ftkc4/deliveroo-3.png)
-*RestaurantScreen*
+![Screenshot 3](./screenshots/deliveroo-3.png)
+_RestaurantScreen_
 
 ## Installation ⚙️
 
